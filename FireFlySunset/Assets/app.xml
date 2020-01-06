@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <timezone>-5</timezone>
+    <latitude>42.8212</latitude>
+    <longitude>-78.6342</longitude>
+    <minutesFromMidnight>0</minutesFromMidnight>
+    <minutesFromSunset>1</minutesFromSunset>
+    <BugQuantity>48</BugQuantity>
+    <MaxInitialDelay>120000</MaxInitialDelay>
+    <stepcount>60000</stepcount>
+    <interval>13</interval>
+    <spinCount>5</spinCount>
+</appSettings>
+</configuration>
